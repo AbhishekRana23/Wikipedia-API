@@ -57,7 +57,7 @@ Navigate to 127.0.0.1:5000 to see the Homepage
 
 #### You can fork the repo and deploy on VPS or deploy it on Heroku :3
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberboysumanjay/JioSaavnAPI/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbhishekRana23/Wikipedia-API/tree/master)
 
 
 ---
